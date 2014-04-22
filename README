@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dzmdre/JDO.png)](https://travis-ci.org/dzmdre/JDO])
+
 Java DeObfuscator (aka JDO)
 
 When reversing Java, you will invariably run up against a fairly common form of data obscuring techniques: obfuscated code.
